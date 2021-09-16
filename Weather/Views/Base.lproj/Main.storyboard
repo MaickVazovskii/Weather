@@ -124,7 +124,7 @@
                         <viewLayoutGuide key="safeArea" id="OD0-30-Q9u"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="8r2-JU-94T" firstAttribute="leading" secondItem="OD0-30-Q9u" secondAttribute="leading" constant="200" id="0eW-aa-ii4"/>
+                            <constraint firstItem="8r2-JU-94T" firstAttribute="leading" relation="lessThanOrEqual" secondItem="OD0-30-Q9u" secondAttribute="leading" constant="200" id="0eW-aa-ii4"/>
                             <constraint firstItem="OD0-30-Q9u" firstAttribute="trailing" secondItem="JK9-Rf-QSR" secondAttribute="trailing" constant="20" id="CMW-wP-MuS"/>
                             <constraint firstItem="JK9-Rf-QSR" firstAttribute="top" secondItem="Uxz-Uh-3Q2" secondAttribute="bottom" constant="126" id="DKH-7Z-uKH"/>
                             <constraint firstItem="JK9-Rf-QSR" firstAttribute="leading" secondItem="OD0-30-Q9u" secondAttribute="leading" constant="20" id="HBR-Ep-t4Q"/>

@@ -89,9 +89,9 @@
 		74B41C9B26F0D00A001FC952 /* Weather */ = {
 			isa = PBXGroup;
 			children = (
-				7463227626F1D98700C29C27 /* Model */,
 				74B41C9C26F0D00A001FC952 /* AppDelegate.swift */,
 				74B41C9E26F0D00A001FC952 /* SceneDelegate.swift */,
+				7463227626F1D98700C29C27 /* Model */,
 				7463227426F0D52300C29C27 /* Controllers */,
 				7463227526F0D53600C29C27 /* Views */,
 				74B41CA526F0D00C001FC952 /* Assets.xcassets */,
